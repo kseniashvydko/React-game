@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  padding: 30px;
+}
+.game {
+  border: 5px solid pink;
+  width: 650px;
+  height: 650px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.game img {
+  width: 80px;
+  height: 80px;
+}

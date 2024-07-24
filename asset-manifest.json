@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-game/static/css/main.2aad3c7f.css",
+    "main.js": "/React-game/static/js/main.8a6231a0.js",
+    "static/media/dog.png": "/React-game/static/media/dog.8722330a6107b130c796.png",
+    "static/media/blank.jpg": "/React-game/static/media/blank.522c7c29aabdeceeebe7.jpg",
+    "static/media/blue.png": "/React-game/static/media/blue.42cd066fc6f9a56dda09.png",
+    "static/media/kitty.png": "/React-game/static/media/kitty.69e8c575a797dab433c2.png",
+    "static/media/heart.png": "/React-game/static/media/heart.cc36f52540fc11e5441d.png",
+    "static/media/bow.png": "/React-game/static/media/bow.171784d28fdb4fa11eb0.png",
+    "static/media/homa.png": "/React-game/static/media/homa.b273844849b760de7fa1.png",
+    "index.html": "/React-game/index.html",
+    "main.2aad3c7f.css.map": "/React-game/static/css/main.2aad3c7f.css.map",
+    "main.8a6231a0.js.map": "/React-game/static/js/main.8a6231a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aad3c7f.css",
+    "static/js/main.8a6231a0.js"
+  ]
+}
